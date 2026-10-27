@@ -1,9 +1,9 @@
 ---
 layout: teaching
-permalink: /teaching/
-title: Teaching
-description: 
+permalink: /mentoring/
+title: Mentoring
+description: Mentored or co-mentored five trainees (two Ph.D., two M.Sc., one undergraduate); three trainee-led projects have been published.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 

@@ -1,6 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Chem. Sci.":
+  url: https://pubs.rsc.org/en/journals/journalissues/sc
+  color: "#a4282b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JCIM":
+  url: https://pubs.acs.org/journal/jcisd8
+  color: "#1d5c96"
+
+"JCTC":
+  url: https://pubs.acs.org/journal/jctcce
+  color: "#2c7a7b"
+
+"Chem. Res. Toxicol.":
+  url: https://pubs.acs.org/journal/crtoec
+  color: "#b0602a"
+
+"J. Cheminform.":
+  url: https://jcheminf.biomedcentral.com/
+  color: "#4b6b3a"
+
+"Front. Mol. Biosci.":
+  url: https://www.frontiersin.org/journals/molecular-biosciences
+  color: "#5b5f97"
+
+"Chem. Biol. Drug Des.":
+  url: https://onlinelibrary.wiley.com/journal/17470285
+  color: "#7a4b7d"

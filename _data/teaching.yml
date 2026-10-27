@@ -1,26 +1,32 @@
-- title: Recitations
+- title: Trainees
   type: time_table
   contents:
-    - title: FS22 MTH234 Section 025
-      year: 09/2022 - 12/2022
-      description: 
-        - Recitation Instructor
-        - Multivariable Calculus
-        - Thursday, 1:50PM - 2:40PM, A326 WH
-    - title: FS22 MTH234 Section 028
-      year: 09/2022 - 12/2022
-      description: 
-        - Recitation Instructor
-        - Multivariable Calculus
-        - Thursday, 3:00PM - 3:50PM, A216 WH
-
-
-- title: Small Class
-  type: time_table
-  contents:
-    - title: SS23 MTH234 Section SCN20
-      year: 01/2023 - 04/2023
-      description: 
-        - Lecture Instructor
-        - Multivariable Calculus
-        - Monday, Tuesday, Thursday, 6:00PM - 7:10PM, A326 WH
+    - title: Seayoung Lee
+      institution: Ph.D. student, New York University
+      year: 2025 - Present
+      description:
+        - Drug discovery project to identify novel inhibitors of the WaaL O-antigen ligase
+        - Guidance on data collection, model development, result analysis, coding and project planning
+    - title: Charlotte Infante (co-mentor)
+      institution: Ph.D. student, New York University
+      year: 2024 - Present
+      description:
+        - T5Chem language model for pKa and protonation prediction
+        - "Outcome: <em>J. Chem. Inf. Model.</em> 2026"
+    - title: Xiaoyu Huang
+      institution: B.Sc. student, East China Normal University
+      year: 2022 - 2023
+      description:
+        - Bachelor's thesis on binding-site matching (descriptor design, database construction, programming)
+    - title: Yueing Zhang
+      institution: M.Sc. student, East China Normal University
+      year: 2021 - 2023
+      description:
+        - Structure-based fragment growing
+        - "Outcome: FragGrow, <em>J. Chem. Inf. Model.</em> 2024"
+    - title: Hao Wang
+      institution: M.Sc. student, East China Normal University
+      year: 2020 - 2022
+      description:
+        - Molecular hybridization for structure-based drug design
+        - "Outcome: MolHyb, <em>J. Chem. Inf. Model.</em> 2022"

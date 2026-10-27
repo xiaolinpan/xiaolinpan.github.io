@@ -125,6 +125,9 @@
           <div class="periodical">
             {{ periodical | strip }}
           </div>
+          {%- if entry.award %}
+          <div class="award" style="color: #b8860b; font-size: 0.85rem; font-weight: 500; margin-top: 2px;"><i class="fas fa-award"></i> {{ entry.award }}</div>
+          {%- endif %}
         {%- endif %}
         
           <!-- Links/Buttons -->

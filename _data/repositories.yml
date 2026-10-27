@@ -1,14 +1,8 @@
 github_users:
-  - wangru25
-
-github_languages:
-  - wangru25
+  - xiaolinpan
 
 github_repos:
-  - wangru25/HERMES
-  - wangru25/SARS-CoV-2-Projects
-  - wangru25/HermesBio
-  - wangru25/MachineLearningTutorial
-  - WeilabMSU/TopNetmAb
-  - wangru25/SGNC
-  
+  - Xundrug/MolGpKa
+  - Xundrug/MolTaut
+  - xiaolinpan/sPhysNet-Taut
+  - Xundrug/AA-Score-Tool

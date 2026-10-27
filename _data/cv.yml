@@ -2,125 +2,138 @@
   type: map
   contents:
     - name: Full Name
-      value: Rui Wang
-    - name: Languages
-      value: English, Chinese
+      value: Xiaolin Pan (潘晓林)
+    - name: Email
+      value: <a href="mailto:xp2042@nyu.edu">xp2042@nyu.edu</a>
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-9465-3971">0000-0002-9465-3971</a>
     - name: CV PDF
-      value: Full form of CV can be viewed here <a href="../assets/pdf/RuiWangCV.pdf"><i class="fas fa-file-pdf"></i></a>
+      value: Full CV can be downloaded <a href="../assets/pdf/XiaolinPan_CV.pdf">here <i class="fas fa-file-pdf"></i></a>
+
+- title: Research Highlights
+  type: list
+  contents:
+    - "<b>Publications:</b> 18 peer-reviewed papers, including 6 first-author papers in <i>Chem. Sci.</i> (ChemSci Pick of the Week), <i>J. Chem. Theory Comput.</i>, <i>Chem. Res. Toxicol.</i> and <i>J. Chem. Inf. Model.</i> (×3)."
+    - "<b>Independent funding:</b> FWF ESPRIT Fellowship as Principal Investigator (EUR 349,732) and Humboldt Research Fellowship for Postdoctoral Researchers (2026)."
+    - "<b>Prospective validation:</b> CACHE #6 hit discovery; Polaris ADMET 2025 top-5 of 300+; Tox24 5th of 78; experimentally confirmed NMDA-receptor hit."
+    - "<b>Research software:</b> lead developer of MolGpKa, MolTaut, sPhysNet-Taut and AA-Score; the Xundrug platform has received more than 1,100,000 visits."
+    - "<b>Mentoring and service:</b> mentored 5 trainees (3 resulting papers); reviewer for 8 journals including <i>Chem. Soc. Rev.</i> and <i>Chem. Sci.</i>"
+
+- title: Appointments
+  type: time_table
+  contents:
+    - title: FWF ESPRIT Fellow (Principal Investigator)
+      institution: University of Vienna, Austria
+      year: 2027 - 2030
+      description:
+        - "Project: Physics-Informed Deep Learning for Molecular Properties"
+        - "Host: Prof. Johannes Kirchmair"
+    - title: Postdoctoral Fellow, Computational Chemistry
+      institution: Department of Chemistry, New York University, New York, NY
+      year: 03/2024 - Present
+      description:
+        - "Advisor: Prof. Yingkai Zhang"
+    - title: Senior Scientist, Computational Drug Discovery
+      institution: WuXi AppTec (Shanghai) Co., Ltd., Shanghai, China
+      year: 07/2023 - 02/2024
+      description:
+        - Client-facing computational drug discovery projects
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
-      institution: Michigan State University, East Lansing, MI 
-      year: 09/2017 - 07/2022
+    - title: Ph.D. in Physical Chemistry
+      institution: East China Normal University, Shanghai, China
+      year: 09/2018 - 06/2023
       description:
-        - Applied Mathematics
-        - Advisor Prof. Guowei Wei
-    - title: B.S.
-      institution: Xi'an Jiaotong University, Xi'an, Shaanxi, China
-      year: 09/2013 - 06/2017
-      description:
-        - Mathematics and Applied Mathematics (Honors Science Program)
+        - "Advisors: Profs. John Z. H. Zhang and Changge Ji"
+        - "Dissertation: Small Molecule Property Prediction and Protein–Ligand Interaction Calculation"
+    - title: B.Eng. in Pharmaceutical Engineering
+      institution: University of Shanghai for Science and Technology, Shanghai, China
+      year: 09/2014 - 07/2018
 
-- title: Experience
+- title: Fellowships, Grants and Awards
   type: time_table
   contents:
-    - title: Simons Center Postdoctoral Fellow
-      institution: New York University, New York City, NY
-      year: 12/2023 - Present
+    - title: FWF ESPRIT Fellowship (Principal Investigator)
+      institution: Austrian Science Fund (FWF), Austria
+      year: 2026
+      description:
+        - EUR 349,732; independent research project hosted by Prof. Johannes Kirchmair, University of Vienna
+    - title: Humboldt Research Fellowship for Postdoctoral Researchers
+      institution: Alexander von Humboldt Foundation, Germany
+      year: 2026
+      description:
+        - "Host: Prof. Paul Czodrowski, Johannes Gutenberg University Mainz"
+    - title: NYU Postdoctoral Research and Professional Development Support Grant
+      institution: New York University
+      year: 2025
+    - title: Research Excellence Award
+      institution: NYU Shanghai
+      year: 2022
+    - title: Outstanding Graduate of Shanghai
+      institution: Shanghai, China
+      year: 2018
+    - title: Outstanding Student Scholarship
+      institution: University of Shanghai for Science and Technology
+      year: 2015 - 2017
 
-    - title: Visiting Assistant Professor
-      institution: Michigan State University, East Lansing, MI 
-      year: 08/2022 - 10/2023
-
-    - title: Research Assistant
-      institution: Michigan State University, East Lansing, MI 
-      year: 01/2019 - 08/2022
-
-    - title: Teaching Assistant
-      institution: Michigan State University, East Lansing, MI 
-      year: 08/2017 - 12/2018
-
-    - title: Exchange Student
-      institution: Michigan State University, East Lansing, MI 
-      year: 01/2016 - 05/2016
-      
-- title: Packages Developed
+- title: Blind Challenges and Prospective Validation
   type: time_table
   contents:
-    - title: <a href="https://github.com/wangru25/SGNC">SGNC</a>
+    - title: CACHE Challenge #6
+      institution: Round 1 hit discovery
+      year: 2025
+      description:
+        - Discovered a Round 1 hit compound and advanced to Round 2 optimization
+    - title: Drug Discovery 2025 ADMET Challenge
+      institution: ASAP Discovery / Polaris
+      year: 2025
+      description:
+        - Top-5 placement among more than 300 submissions
+    - title: Tox24 Challenge
+      institution: ICANN2024 / ChemResTox / AIDD / AIChemist
+      year: 2024
+      description:
+        - Fifth place among 78 teams; not significantly different from the winning model
+    - title: Drug Screening AI Algorithm “Lingyue” Challenge
+      institution: Shanghai International Computational Biology Innovation Competition
       year: 2023
-      description: A package for designing highly druggable anti-cocaine addiction compounds using Stochastic-based Generative Network Complex.
-    - title: <a href="https://github.com/wangru25/HERMES">HERMES</a>
-      year: 2021
-      description: A package for simultaneous topological data analysis (persistent Betti numbers) and geometric data analysis (persistent eigenvalues).
-    - title: <a href="https://github.com/wangru25/HERMES">Machine Learning Tutorial</a>
-      year: 2019
-      description: A series of Python coding tutorial for 16 machine learning algorithms.
-    
-- title: Website Developed
+      description:
+        - Identified an active hit compound targeting the NMDA receptor
+
+- title: Software and Web Servers
   type: time_table
   contents:
-    - title: <a href="https://weilab.math.msu.edu/MutationAnalyzer/">MutationAnalyzer</a>
-      year: 2021
-      description: An interactive website for analyzing Spike protein RBD mutations.
-    - title: <a href="https://users.math.msu.edu/users/weig/SARS-CoV-2_Mutation_Tracker.html">MutationTracker</a>
-      year: 2020
-      description: An interactive website for tracking SARS-CoV-2 mutations.
-  
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 12/2023
-      items: 
-        - Simons Center Postdoctoral Fellowship
-    - year: 07/2022
-      items: 
-        - SIAM Conference on the Life Sciences (LS22) Travel Award
-    - year: 05/2022
-      items: 
-        - College of Natural Science Completion Fellowship
-    - year: 05/2022
-      items:
-        - Dr. Paul and Wilma Dressel Endowed Scholarship
-    - year: 04/2020
-      items:
-        - Herbert T. Graham Scholarship Award
-    - year: 10/2019
-      items: 
-      - SCMLLS Travel Support Fund 
-    - year: 05/2019
-      items:
-      - College of Natural Science Continuation Fellowship
+    - title: <a href="https://xundrug.cn">Xundrug web-server platform</a>
+      year: Platform
+      description:
+        - Hosts computational chemistry and drug-discovery tools developed by the ECNU-NYUSH computational chemistry team; more than 1,100,000 visits
+    - title: <a href="https://github.com/Xundrug/MolGpKa">MolGpKa</a>, <a href="https://github.com/Xundrug/MolTaut">MolTaut</a>, <a href="https://github.com/xiaolinpan/sPhysNet-Taut">sPhysNet-Taut</a>
+      year: Lead dev
+      description:
+        - Small-molecule pKa prediction, favorable tautomer generation, tautomer stability and tautomer-ratio prediction
+    - title: <a href="https://github.com/Xundrug/AA-Score-Tool">AA-Score</a>
+      year: Lead dev
+      description:
+        - Amino-acid-specific scoring function for rapid estimation of protein–ligand binding affinity
+    - title: SiteMatcher, qMol, MacGen, FragGrow, FragRep, MolHyb
+      year: Co-dev
+      description:
+        - Web servers for binding-site matching, molecular query, macrocycle design, fragment growing, fragment replacement and molecular hybridization
 
-- title: Research Interests
-  type: nested_list
+- title: Professional Service
+  type: map
   contents:
-    - title: Computational Topology and Graphs
-      items: 
-        - Persistent Laplacians, Persistent Path Laplacians
-        - Geometric Graph Learning
-    - title: Mathematical Modeling of Infectious Disease
-      items:
-        - Artificial intelligence forecasting of emerging infecious variants
-    - title: Genomics analysis
-      items:
-        - DNA sequencing; single-nucleotide polymorphism (SNP) calling
-        - UMAP-assisted clustering of large-scale SARS-CoV-2 mutation datasets
-    - title: Machine Learning
-      items:
-        - Convolution neural network(CNN); Multitask learning; Autoencoder; Generative Adversarial network (GAN)
-        - Long Short Term Memory network (LSTM); Gated Recurrent Units (GRU) Transfer learning
-        - U-Net, Clustering
+    - name: Journal reviewer
+      value: Chemical Society Reviews; Chemical Science; Journal of Chemical Information and Modeling; Journal of Cheminformatics; Journal of Computational Chemistry; Chemical Research in Toxicology; Journal of Computer-Aided Molecular Design; Reaction Chemistry & Engineering
 
-- title: Programming Languages
-  type: list
+- title: Technical Skills
+  type: map
   contents:
-    - Python, MATLAB, JavaScript, BASH, C++, MATHEMATICS
-
-- title: Molecular Visualization and Computer Graphics Softwares
-  type: list
-  contents:
-    - VMD, ChimeraX, PyMOL, Blender, Illustrator
-
+    - name: Programming
+      value: Python, PyTorch, C++, SQL, shell scripting, Linux, RDKit
+    - name: Computational tools
+      value: Schrödinger, OpenMM, Gaussian, AMBER, PySCF, gpu4pyscf
+    - name: Methods
+      value: Deep learning, cheminformatics, quantum chemistry, molecular docking, virtual screening, protein–ligand scoring, molecular-property prediction, web-server development
